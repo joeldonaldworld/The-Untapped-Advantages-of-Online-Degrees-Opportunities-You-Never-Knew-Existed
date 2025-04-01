@@ -21,7 +21,7 @@
 
 ### Unemployment Rate (Job Competition Level)
 This shows how easy or difficult it is for foreign workers to find jobs:
--  Switzerland – 2.1% (Very low, strong job market)
+-  Switzerland – 2.1% 
 -  Norway – 3.4%
 -  United States – 3.7%
 -  Netherlands – 3.8%
@@ -37,4 +37,18 @@ This shows how easy or difficult it is for foreign workers to find jobs:
 -  Finland – 7.4%
 -  Belgium – 7.5%
 
-  
+### How Countries Engage Foreign Remote Workers
+#### United States
+-  As of early 2025, approximately 30% of the workforce employed by U.S.-based conglomerates is located abroad.
+-  Approximately 3.4 million U.S. service sector jobs have been outsourced overseas, with India being a primary destination for these roles.
+-  About 20% of U.S. tech industry jobs are now performed overseas, with 70% of American companies outsourcing some of their technology operations.
+-  A 2024 survey by Ontop revealed that 90% of companies plan to hire remote workers from other countries, including developing nations, to expand their talent pool and reduce costs.
+#### United Kingdom
+
+
+
+
+
+
+
+
