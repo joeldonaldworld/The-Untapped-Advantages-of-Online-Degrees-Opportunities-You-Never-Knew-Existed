@@ -18,3 +18,23 @@
 -  Denmark – 14%
 -  Norway – 17%
 -  Finland – 10%
+
+### Unemployment Rate (Job Competition Level)
+This shows how easy or difficult it is for foreign workers to find jobs:
+-  Switzerland – 2.1% (Very low, strong job market)
+-  Norway – 3.4%
+-  United States – 3.7%
+-  Netherlands – 3.8%
+-  Germany – 4.0%
+-  Denmark – 4.4%
+-  Australia – 4.5%
+-  Austria – 4.7%
+-  United Kingdom – 4.8%
+-  Ireland – 5.1%
+-  Canada – 5.2%
+-  New Zealand – 5.3%
+-  Sweden – 7.2%
+-  Finland – 7.4%
+-  Belgium – 7.5%
+
+  
