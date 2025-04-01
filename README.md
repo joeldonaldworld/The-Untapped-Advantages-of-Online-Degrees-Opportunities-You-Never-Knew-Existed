@@ -127,121 +127,66 @@ IT professionals, healthcare workers, engineers, and skilled tradespeople are am
 -  Applicants must submit an Expression of Interest (EOI) for permanent residency through the SkillSelect system.
 -  Depending on the occupation, applicants may also need to undergo a skills assessment before applying for a visa.
 #### Ireland
-Challenges:
-
-Labor Market Test: Certain work visas require the employer to demonstrate that no local worker is available for the job.
-
-Critical Skills Employment Permit: Although this is easier to obtain, the salary threshold and skill requirements can be high.
-
-Ease:
-
-Moderate: The Critical Skills Employment Permit offers a clear route to permanent residency, but the process for some categories may involve bureaucratic delays.
-
-Jobs:
-
+##### Challenges:
+-  Labor Market Test: Certain work visas require the employer to demonstrate that no local worker is available for the job.
+-  Critical Skills Employment Permit: Although this is easier to obtain, the salary threshold and skill requirements can be high.
+##### Ease = Moderate
+The Critical Skills Employment Permit offers a clear route to permanent residency, but the process for some categories may involve bureaucratic delays.
+##### Jobs:
 IT professionals, scientists, engineers, and healthcare workers are the most in-demand and have higher chances of securing work visas and PR.
-
-Process:
-
-After two years on a Critical Skills Employment Permit, individuals can apply for Long-Term Residency.
-
-Permanent Residency can be applied for after five years of continuous legal residence.
-
-6. New Zealand
-Challenges:
-
-Skill Shortages: New Zealand only allows skilled workers in high-demand occupations to apply for work visas.
-
-Limited Quotas: There are limited quotas for certain types of work visas and residency.
-
-Ease:
-
-Moderate: The process can be straightforward for skilled workers, but not all professions are eligible for work permits or PR.
-
-Jobs:
-
+##### Process:
+-  After two years on a Critical Skills Employment Permit, individuals can apply for Long-Term Residency.
+-  Permanent Residency can be applied for after five years of continuous legal residence.
+#### New Zealand
+##### Challenges:
+-  Skill Shortages: New Zealand only allows skilled workers in high-demand occupations to apply for work visas.
+-  Limited Quotas: There are limited quotas for certain types of work visas and residency.
+##### Ease = Moderate
+The process can be straightforward for skilled workers, but not all professions are eligible for work permits or PR.
+##### Jobs:
 IT professionals, engineers, healthcare workers, and skilled tradespeople have the best chances of securing work permits and PR.
-
-Process:
-
-Applicants must submit an Expression of Interest (EOI) through the Skilled Migrant Category (SMC).
-
-Points are awarded based on skills, age, and other factors, and if the applicant meets the threshold, they are invited to apply for a resident visa.
-
-7. Germany
-Challenges:
-
-Job Offer Requirement: Applicants must have a job offer from a German employer to apply for a work visa.
-
-Language Skills: In many cases, knowledge of German is required, especially for jobs outside of IT and engineering.
-
-Ease:
-
-Moderate: The Blue Card and Job Seeker Visa are excellent pathways, but they require a specific skillset and language knowledge.
-
-Jobs:
-
+##### Process:
+-  Applicants must submit an Expression of Interest (EOI) through the Skilled Migrant Category (SMC).
+-  Points are awarded based on skills, age, and other factors, and if the applicant meets the threshold, they are invited to apply for a resident visa.
+#### Germany
+##### Challenges:
+-  Job Offer Requirement: Applicants must have a job offer from a German employer to apply for a work visa.
+-  Language Skills: In many cases, knowledge of German is required, especially for jobs outside of IT and engineering.
+##### Ease = Moderate
+The Blue Card and Job Seeker Visa are excellent pathways, but they require a specific skillset and language knowledge.
+##### Jobs:
 Engineers, IT professionals, healthcare workers, and skilled tradespeople are in demand.
-
-Process:
-
-The EU Blue Card is available for highly skilled workers. After 33 months of working in Germany (21 months with German language proficiency), individuals can apply for permanent residency.
-
-8. Netherlands
-Challenges:
-
-Salary Thresholds: The Netherlands requires a high minimum salary for certain visa categories, particularly for highly skilled migrants.
-
-Work Permit Sponsorship: Employers must demonstrate that they are unable to find a qualified Dutch candidate for the position.
-
-Ease:
-
-Moderate: The process for highly skilled migrants is relatively simple, but the salary requirements can be a barrier.
-
-Jobs:
-
+##### Process:
+-  The EU Blue Card is available for highly skilled workers. After 33 months of working in Germany (21 months with German language proficiency), individuals can apply for permanent residency.
+#### Netherlands
+##### Challenges:
+-  Salary Thresholds: The Netherlands requires a high minimum salary for certain visa categories, particularly for highly skilled migrants.
+-  Work Permit Sponsorship: Employers must demonstrate that they are unable to find a qualified Dutch candidate for the position.
+##### Ease = Moderate
+The process for highly skilled migrants is relatively simple, but the salary requirements can be a barrier.
+##### Jobs:
 IT, engineering, finance, and scientific professionals are most likely to secure work permits and PR.
-
-Process:
-
+##### Process:
 Highly skilled migrants must have an employment contract with a Dutch employer that meets salary and skill criteria.
-
-9. Switzerland
-Challenges:
-
-Work Permit Quotas: There are strict quotas for non-EU citizens to obtain work permits, and these quotas are often filled quickly.
-
-Language Requirement: Most jobs in Switzerland require proficiency in one of the country's official languages (German, French, Italian).
-
-Ease:
-
-Tough: Given the limited number of work permits available and the language barrier, securing work authorization can be difficult.
-
-Jobs:
-
+#### Switzerland
+##### Challenges:
+-  Work Permit Quotas: There are strict quotas for non-EU citizens to obtain work permits, and these quotas are often filled quickly.
+-  Language Requirement: Most jobs in Switzerland require proficiency in one of the country's official languages (German, French, Italian).
+##### Ease = Tough
+Given the limited number of work permits available and the language barrier, securing work authorization can be difficult.
+##### Jobs:
 IT professionals, healthcare workers, and highly specialized engineers are the most likely to obtain work permits.
-
-Process:
-
+##### Process:
 Employers must apply for work permits on behalf of foreign workers, and the Swiss government will assess whether a local candidate can fill the role. After ten years of residence, individuals can apply for permanent residency.
-
-10. Sweden
-Challenges:
-
-Job Offer Requirement: Applicants must have a job offer that meets salary thresholds.
-
-Language Barrier: While English is widely spoken, knowledge of Swedish can be an advantage, particularly for some job sectors.
-
-Ease:
-
-Moderate: The process is fairly straightforward for those with a job offer, but language and salary criteria can be a challenge.
-
-Jobs:
-
+#### Sweden
+##### Challenges:
+-  Job Offer Requirement: Applicants must have a job offer that meets salary thresholds.
+-  Language Barrier: While English is widely spoken, knowledge of Swedish can be an advantage, particularly for some job sectors.
+##### Ease = Moderate
+The process is fairly straightforward for those with a job offer, but language and salary criteria can be a challenge.
+##### Jobs:
 IT, engineering, and healthcare professionals are the most likely to secure work permits and PR.
-
-Process:
-
+##### Process:
 Applicants must have a job offer from a Swedish employer that meets salary and skill criteria. After four years of work in Sweden, individuals can apply for permanent residency.
 
 
