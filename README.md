@@ -44,7 +44,11 @@ This shows how easy or difficult it is for foreign workers to find jobs:
 -  About 20% of U.S. tech industry jobs are now performed overseas, with 70% of American companies outsourcing some of their technology operations.
 -  A 2024 survey by Ontop revealed that 90% of companies plan to hire remote workers from other countries, including developing nations, to expand their talent pool and reduce costs.
 #### United Kingdom
-
+-  Since 2020, 56% of UK entrepreneurs have hired international staff, with 30% of London entrepreneurs having the majority of their team based abroad.
+-  A 2022 survey found that 25% of UK businesses are hiring tech talent globally to tackle domestic shortages.
+#### Canada
+-  As of 2023, approximately 35% of Canadian businesses are actively hiring remote workers from outside the country. A significant portion of this hiring is targeted at workers in developing countries, where companies seek to access affordable talent pools and specialized skills, particularly in the IT, software development, and customer service sectors.
+-  India and the Philippines are the leading countries from which Canadian businesses hire remote workers.
 
 
 
