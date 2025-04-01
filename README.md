@@ -48,7 +48,24 @@ This shows how easy or difficult it is for foreign workers to find jobs:
 -  A 2022 survey found that 25% of UK businesses are hiring tech talent globally to tackle domestic shortages.
 #### Canada
 -  As of 2023, approximately 35% of Canadian businesses are actively hiring remote workers from outside the country. A significant portion of this hiring is targeted at workers in developing countries, where companies seek to access affordable talent pools and specialized skills, particularly in the IT, software development, and customer service sectors.
--  India and the Philippines are the leading countries from which Canadian businesses hire remote workers.
+-  The Philippines, India, and Ukraine are prominent sourcing countries for remote work in Canada, especially in tech and customer service.
+-  The IT, customer service, marketing, and digital roles dominate the hiring of remote workers from developing countries.
+#### Australia
+-  In the first half of 2022, Australian businesses saw a 292% surge in hiring remote overseas workers compared to the latter half of 2021
+-  The Philippines, India, and Pakistan are the primary sources for remote talent.
+-  Software engineers, statisticians, and creative solutions specialists are among the most sought-after positions.
+-  Nearly half (47%) of Australian executives find it extremely difficult to hire skilled talent within local markets. To address this, 86% of business leaders are hiring employees from other countries.
+#### Germany
+-  In 2022, Germany faced a shortfall of over 120,000 IT specialists, highlighting a pressing need for skilled professionals in the tech sector.
+-  German companies are collaborating with African tech firms to access skilled IT professionals. For instance, AmaliTech, headquartered in Cologne, connects IT talent from Ghana and Rwanda with German clients, facilitating remote work arrangements.
+-  Germany is increasing visa allocations for skilled Indian workers from 20,000 to 90,000, indicating a broader strategy to attract global talent.
+-  As of June 2023, 80% of firms in the information economy sector offered remote work options, reflecting a significant shift towards flexible work arrangements.
+#### New Zealand
+-  As of 2024, nearly half (47%) of the workforce employed by New Zealand's 200 largest technology exporters are based overseas.
+-  
+
+
+
 
 
 
