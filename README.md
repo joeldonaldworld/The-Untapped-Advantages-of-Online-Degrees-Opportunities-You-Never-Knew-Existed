@@ -312,6 +312,61 @@ Engineering, business, tech, STEM.
 #### Why Choose Georgia Tech?
 -  Georgia Tech’s co-op programs are mostly designed for students in STEM fields.
 -  With high-profile partnerships, students gain hands-on experience and build a professional network that helps them secure full-time roles after graduation.
+### University of Liverpool
+#### Career Services for Online Students
+The University of Liverpool provides robust career services, even for those studying online, to ensure that students are equipped for employment after graduation. 
+The university's career services have consistently supported online students, with reports suggesting a 95% graduate employment rate for those who actively engage with these resources.
+Some of the key resources are:
+-  Liverpool Online Career Hub: Students can access a wide range of career resources, including job postings, career advice, CV templates, interview preparation, and networking opportunities.
+-  Virtual Career Coaching: Online students are offered personalized coaching sessions that cover various career topics such as job search strategies, interview skills, and professional development.
+-  Job Search Resources: The platform provides access to numerous job boards, where students can search for remote opportunities across different industries.
+#### Internship, Placement, and Remote Career Opportunities
+The University of Liverpool leverages its industry collaborations to provide real-world opportunities for students.
+##### Placement Opportunities for Online Students
+Although online programs don’t traditionally have on-campus internships, the university works with industry partners to arrange remote internships and placements for online students. This includes industries such as:
+-  Technology (e.g., Microsoft and Google offer remote internships).
+-  Marketing and Business Development (e.g., Unilever and Deloitte).
+-  Consulting (e.g., PwC and Accenture offer virtual consulting roles).
+#### Industry Collaborations and Partner Networks
+The university has strong links with leading companies (e.g., Jaguar Land Rover, Unilever, and KPMG), which often provide internship and job opportunities for both online and on-campus students.
+Additionally, they work with recruitment agencies and offer networking events that connect students directly to potential employers.
+Example: In 2021, the University of Liverpool reported that 72% of students from its online MBA program secured career progression or new job roles within six months of graduation. This includes career shifts facilitated through remote internships or virtual placement opportunities. 
+#### Alumni Network and Career Opportunities
+Liverpool Connect: The university offers an exclusive online platform for students and alumni to connect with each other. This allows graduates to access job postings, receive mentorship, and network with employers. This platform is highly beneficial for online students who may be located internationally, as it allows them to network remotely with professionals worldwide.
+Specialized Career Development Programs
+The university goes beyond traditional career services by offering specialized programs that help students develop employability skills, such as:
+#### Employability Skills Program
+Skills development workshops are available to students throughout their online programs. These include:
+-  Leadership and Management Training (for those aiming for managerial roles).
+-  Project Management and Collaboration Tools (such as JIRA, Trello, and Slack).
+-  Communication and Negotiation skills, which are essential for remote roles.
+#### Graduate Employment Program
+The university has a Graduate Employment Program in place, which includes:
+-  Support with graduate recruitment and connecting students to employers specifically seeking talent from the University of Liverpool.
+-  Focus on providing placement support for online students pursuing programs in Data Science, Business Analytics, and Digital Marketing.
+#### Employer Engagement and Graduate Employment Stats
+-  The university has maintained a high graduate employment rate, with over 92% of graduates employed within six months of completing their program.
+-  Survey Results: A 2021 survey found that 83% of graduates felt their University of Liverpool online degree gave them the necessary skills to succeed in their careers.
+#### Virtual Job Fairs & Networking Events
+The University of Liverpool organizes virtual career fairs and networking events where online students can meet with employers from various industries. 
+Online students across the world have access to these events, and over 70% of those who attended these virtual events found them helpful in securing job opportunities or advancing their careers.
+These events are designed to help students:
+-  Find remote job opportunities, 
+-  Engage directly with potential employers.
+-  Learn about internships, graduate schemes, and freelance opportunities.
+### University of Essex
+#### Career Services for Online Students
+The University of Essex offers comprehensive career support accessible to all students, including those enrolled in online programs:
+-  CareerHub: An online portal filled with vacancies for graduate jobs and paid internships, along with resources like CV360 for resume reviews.
+-  Career Mentors and Frontrunner Internships: The university assists students in gaining career mentors and offers Frontrunner internships within the university, providing valuable work experience.
+#### Internship and Placement Opportunities
+The University of Essex facilitates various programs to help students gain practical experience:
+-  Essex Interns: This program offers exclusive paid internships for current students with university departments and local employers, providing hands-on experience in various fields. 
+-  International Internships and Research: Students have opportunities to spend summers completing international internships or research abroad, enhancing their global experience.
+#### Employer Engagement and Partnerships
+The university actively collaborates with employers to create opportunities for students:
+-  Local Employer Collaborations: Through the Essex Interns program, the university partners with local businesses to offer paid internships, facilitating practical experience and industry connections.
+-  International Partnerships: The university partners with organizations like The Intern Group, providing students with international internship opportunities and additional benefits. ​
 
 
 
