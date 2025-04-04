@@ -1,4 +1,4 @@
-# The-Untapped-Advantages-of-Online-Degrees-Opportunities-You-Never-Knew-Existed
+# The Untapped Advantages of Online Degrees Opportunities
 
 ---
 ## Top Countries Hiring Foreign Workers
