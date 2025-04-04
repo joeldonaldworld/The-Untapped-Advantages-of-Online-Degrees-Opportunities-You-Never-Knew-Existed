@@ -411,3 +411,48 @@ The university actively collaborates with employers to create opportunities for 
 -  Top-ranked university in Australia
 -  Works with Amazon, Google, PwC, IBM for career placements
 -  Recognized for Australian PR applications
+---
+## Top Universities Offering Scholarships for Online Degrees
+### University of London (UK) – Online Scholarships
+#### Scholarships Available:
+-  Commonwealth Distance Learning Scholarships (full tuition for students from eligible developing countries)
+-  Global MBA Bursary (up to 30% off tuition fees)
+#### Eligibility: 
+-  Based on financial need and academic merit
+### Arizona State University (ASU Online) – USA
+#### Scholarships Available:
+-  ASU Online Global Freshman Academy (discounted courses & financial aid)
+-  MasterCard Foundation Scholars Program (for African students in select programs)
+#### Eligibility: 
+-  Based on academic excellence and leadership potential
+### University of Toronto (Canada) – Online Financial Aid
+#### Scholarships Available:
+-  International Student Scholarship Program (merit-based funding for online learners)
+-  Open Learning Bursary (for financial need-based applicants)
+#### Eligibility:
+-  Must demonstrate academic achievement and financial need
+### Open University (UK) – Financial Support for Online Learners
+#### Scholarships Available:
+-  Carnegie Trust Scholarship (for students from Africa and Asia)
+-  Part-time Fee Grants (for low-income students taking online courses)
+#### Eligibility: 
+-  Need-based and merit-based scholarships
+### Deakin University (Australia) – Online Study Scholarships
+#### Scholarships Available:
+-  Vice-Chancellor’s International Scholarship (up to 100% tuition fees covered)
+-  Deakin STEM Scholarships (for technology and data science students)
+#### Eligibility: 
+Based on academic excellence and leadership experience
+### University of Liverpool (UK) – Online Study Discounts
+#### Scholarships Available:
+-  International Merit Scholarship (up to 50% tuition reduction)
+-  Commonwealth Scholarship for Online Degrees (for students from developing countries)
+#### Eligibility: 
+-  Open to students from eligible countries
+### University of Essex (UK) – Online Study Scholarships
+#### Scholarships Available:
+-  Essex Online Postgraduate Discount (up to 20% fee reduction)
+-  Africa Scholarship Programme (special funding for African students)
+#### Eligibility: 
+Based on region and academic performance
+---
