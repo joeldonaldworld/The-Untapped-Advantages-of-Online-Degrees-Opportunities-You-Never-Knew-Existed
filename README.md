@@ -454,5 +454,5 @@ Based on academic excellence and leadership experience
 -  Essex Online Postgraduate Discount (up to 20% fee reduction)
 -  Africa Scholarship Programme (special funding for African students)
 #### Eligibility: 
-Based on region and academic performance
+-  Based on region and academic performance
 ---
