@@ -367,7 +367,47 @@ The University of Essex facilitates various programs to help students gain pract
 The university actively collaborates with employers to create opportunities for students:
 -  Local Employer Collaborations: Through the Essex Interns program, the university partners with local businesses to offer paid internships, facilitating practical experience and industry connections.
 -  International Partnerships: The university partners with organizations like The Intern Group, providing students with international internship opportunities and additional benefits. ​
-
-
-
-
+---
+## Top-Ranked Universities Offering Affordable Online Degrees
+### Arizona State University (ASU Online) – USA
+-  Tuition: $6,000 – $16,000 per year
+#### Why it’s great?
+-  Ranked among the top 100 globally for employability
+-  Partnerships with Amazon, Google, Intel, Tesla for career opportunities
+-  Recognized in the US, Canada, UK, and Australia for work permit applications
+### University of London (Online) – UK
+-  Tuition: $5,000 – $10,000 per year
+#### Why it’s great?
+-  Top 10 university in the UK for international reputation
+-  Partnered with Google, Accenture, IBM, Deloitte for career placements
+-  Can boost points for UK work visa applications
+### University of Toronto (School of Continuing Studies) – Canada
+-  Tuition: $4,000 – $15,000 per year
+#### Why it’s great?
+-  Canada’s top university with a strong global ranking
+-  Strong employer network including Google, Microsoft, RBC, TD Bank
+-  Can help in applying for Canada’s PR through Express Entry
+### Deakin University (Cloud Campus) – Australia
+-  Tuition: $5,000 – $10,000 per year
+#### Why it’s great?
+-  Ranked in Australia’s top 10 universities
+-  Partnered with PwC, Deloitte, EY, Amazon for career opportunities
+-  Australia’s PR system recognizes Deakin degrees for immigration
+### University of Liverpool (Online) – UK
+-  Tuition: $5,000 – $13,000 per year
+#### Why it’s great?
+-  Highly ranked and globally recognized
+-  Career services partnered with KPMG, HSBC, Microsoft, IBM
+-  Advantageous for UK work visa applications
+### University of Essex (Online) – UK
+-  Tuition: $6,000 – $10,000 per year
+#### Why it’s great?
+-  Accredited and ranked in the UK’s top 40 universities
+-  Career partnerships with Vodafone, Barclays, Cisco
+-  Degree helps with UK work permits
+### Curtin University (Australia) – Online Degrees
+-  Tuition: $3,500 – $9,000 per year
+#### Why it’s great?
+-  Top-ranked university in Australia
+-  Works with Amazon, Google, PwC, IBM for career placements
+-  Recognized for Australian PR applications
